@@ -26,3 +26,5 @@ Once you have created your repository, please:
 - For a private repo with no GitHub Advanced Security license remove the .github/workflows/dependency-review.yml file.
 
 [create a repository]: https://github.com/ministryofjustice/template-repository/generate
+
+small change
